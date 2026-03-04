@@ -12,3 +12,7 @@ Predict whether a passenger survived or not using Machine Learning.
 
 ## Model used
 Random Forest Classifier
+## Project Description
+
+This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
+Data preprocessing, feature encoding, and model training were performed using Python and Scikit-learn.
