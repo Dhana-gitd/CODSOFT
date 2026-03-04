@@ -12,3 +12,7 @@ Predict product sales based on advertising spend.
 
 ## Model Used
 Linear Regression
+## Project Description
+
+This project predicts product sales based on advertising budgets using Linear Regression.
+The model analyzes TV, Radio, and Newspaper advertisement spending to estimate sales performance.
