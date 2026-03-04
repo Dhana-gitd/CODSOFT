@@ -12,3 +12,7 @@ Predict the species of Iris flower using Machine Learning.
 
 ## Model Used
 Logistic Regression
+## Project Description
+
+This project classifies iris flowers into different species using Logistic Regression.
+The model was trained using sepal and petal measurements from the Iris dataset.
